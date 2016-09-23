@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "183A72BF49B2F5F25898788F88518CF6E03B3CEF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "183A72BF49B2F5F25898788F88518CF6E03B3CEF" : 0,
+    "199CE078192184AAD8A829F9CE288C0106EBFEA4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B2F03781-9392-4EC2-BD22-3B6EA0808855",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "183A72BF49B2F5F25898788F88518CF6E03B3CEF" : "LeftSilder\/",
+    "199CE078192184AAD8A829F9CE288C0106EBFEA4" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LeftSilder",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LeftSilder.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hexiaoba\/LeftSilder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "183A72BF49B2F5F25898788F88518CF6E03B3CEF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hexiaoba\/HyPopMenuView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "199CE078192184AAD8A829F9CE288C0106EBFEA4"
+    }
+  ]
+}
